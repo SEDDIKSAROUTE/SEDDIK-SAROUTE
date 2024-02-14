@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SEDDIK SAROUTE</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate backend & frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [SOLAR SIMULATOR](https://solar-simulator-2fe8e27e3346.herokuapp.com/)
+- 🔭 I’m currently working on [SOLAR SIMULATOR PROJECT](https://solar-simulator-2fe8e27e3346.herokuapp.com/)
 
 - 🌱 I’m currently learning **RUBY ON RAILS**
 
